@@ -1,2 +1,3 @@
 const namePlace = 1;
-console.log(`The number is ${namePlace}`);
+const namePlaceB = 2;
+console.log(`The number is ${namePlace}${namePlaceB}`);
